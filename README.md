@@ -11,9 +11,9 @@ Additional implementation details are provided in the [`experimental_setup.xlsx`
 If you find our work useful, please cite:
 
 ```text
-@article{chen2025amulet,
+@article{chen2025adaptive,
   title={Adaptive Mixture of Low-Rank Experts for Robust Audio Spoofing Detection},
-  author={Chen, Qixian and Xu, Yuxiong and Mandelli, Stefano and Li, Bin},
+  author={Chen, Qixian and Xu, Yuxiong and Mandelli, Sara and Li, Sheng and Li, Bin},
   journal={arXiv preprint arXiv:2503.12010},
   year={2025}
 }
